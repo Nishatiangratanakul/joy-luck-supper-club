@@ -1,0 +1,167 @@
+/* global styles */
+@font-face {
+    font-family: jungka-book;
+    src: url(../assets/fonts/JLJungkaTrial-Book.otf);
+    text-align: left;
+}
+
+@font-face {
+    font-family: jungka-book-italic;
+    src: url(../assets/fonts/JLJungkaTrial-BookItalic.otf);
+    text-align: left;
+}
+  
+@font-face {
+    font-family: jungka-medium;
+    src: url(../assets/fonts/JLJungkaTrial-Medium.otf);
+    text-align: left;
+ }
+
+.heading{
+    font-family: jungka-book;
+    font-size: 64pt;
+    line-height: 1;
+    color: #E23A29;
+}
+
+.subheading{
+    font-family: jungka-book;
+    font-size: 18pt;
+    color: #E23A29;
+}
+
+.subheading-bold{
+    font-family: jungka-medium;
+    font-size: 20pt;
+    color: #E23A29;
+}
+
+.body{
+    font-family: jungka-book;
+    font-size: 16pt;
+    color: #E23A29;
+    padding-bottom: 10px; /* Add padding to bottom */
+}
+
+.body-bold{
+    font-family: jungka-medium;
+    font-size: 16pt;
+    color: #E23A29;
+    padding-bottom: 10px; /* Add padding to bottom */
+}
+
+.body-italic{
+    font-family: jungka-book-italic;
+    font-size: 16pt;
+    color: #E23A29;
+    padding-bottom: 10px; /* Add padding to bottom */
+}
+
+/* main content styling */
+
+main {
+    padding: 100px 100px 100px;
+}
+
+.text-container {
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 75px; 
+}
+
+.text-container h1 {
+    margin-bottom: 30px; 
+}
+
+.image-container {
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+    margin-bottom: 20px; 
+}
+
+.image {
+    max-width: 100%;
+    height: auto;
+}
+
+.icon {
+    position: absolute;
+    padding-bottom: 2px;
+    padding-right: 1px;
+    width: 40px; 
+    height: 40px; 
+    background-color: white;
+    border: 2px solid #E23A29; 
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+}
+
+.icon1 {
+    left: 50%;
+    top: 25%;
+}
+
+.overlay {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 50, 0.5); 
+    z-index: 9;
+}
+
+.popout {
+    width: 900px;
+    display: none;
+    position: absolute;
+    transform: translate(-50%, 125%);
+    background-color: white;
+    padding-left: 35px;
+    padding-right: 50px;
+    padding-top: 35px;
+    padding-bottom: 35px;
+    border: 2px solid #E23A29;
+    z-index: 10;
+    overflow: hidden; /* Ensure the image doesn't overflow */
+}
+
+.popout .photo {
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    width: 300px;
+    height: auto;
+    z-index: -1; /* Move the image behind other elements */
+}
+
+
+/* Additional styles for Recommended Dishes container */
+.recommended-dishes-container {
+    display: flex; /* Display as flex container */
+    align-items: center; /* Align items vertically */
+}
+
+.recommended-dishes-container .body-bold {
+    margin-right: 5px; /* Add some spacing between label and dishes */
+}
+
+/* Additional styles for Recommended Dishes container */
+.recommended-dishes-container {
+    display: flex; /* Display as flex container */
+    align-items: center; /* Align items vertically */
+}
+
+.popout .location{
+    padding-bottom: 25px; /* Add padding to bottom */
+}
+
+.popout .description{
+    padding-bottom: 25px; /* Add padding to bottom */
+}
+
