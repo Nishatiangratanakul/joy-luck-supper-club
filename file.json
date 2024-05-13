@@ -21,9 +21,9 @@
         "number": 3,
         "title": "Taiwan Bear House",
         "location": "11 Pell St",
-        "description": "Opened in October 2019, Tonii’s specializes in the Cantonese dim sum classic cheung-fun, otherwise known as rice noodle rolls. The small eatery on Bayard Street offers a wide variety of Hong Kong-style breakfast foods that make for a quintessential element of the Chinatown experience.",
+        "description": "Taiwan Bear House opened in June 2015 and is located in the heart of Chinatown. They serve authentic Taiwanese dishes. Differentiated from the hustling and bustling neighborhood in Chinatown, the interior of Taiwan Bear House reflects the serene and zen sensibilities of the Taiwanese culture with wood-decorated walls.",
         "dishes": ["Pork chop Bento"],
-        "photo": "assets/images/1.png"
+        "photo": "assets/images/3.png"
     },
 
     {
@@ -39,43 +39,43 @@
         "number": 5,
         "title": "Lanzhou Ramen",
         "location": "107 E Broadway",
-        "description": "Opened in October 2019, Tonii’s specializes in the Cantonese dim sum classic cheung-fun, otherwise known as rice noodle rolls. The small eatery on Bayard Street offers a wide variety of Hong Kong-style breakfast foods that make for a quintessential element of the Chinatown experience.",
+        "description": "anzhou Ramen is a cozy noodle joint renowned for its freshly made noodles and rich broth. Despite its small size, it offers a warm and welcoming atmosphere, perfect for enjoying a comforting bowl of noodles. With limited seating available, it's best to arrive early to secure a spot and savor the culinary delights on offer.",
         "dishes": ["Beef Noodle Soup"],
-        "photo": "assets/images/1.png"
+        "photo": "assets/images/5.png"
     },
 
     {
         "number": 6,
         "title": "Kuih Cafe",
         "location": "46 Eldridge St",
-        "description": "Opened in October 2019, Tonii’s specializes in the Cantonese dim sum classic cheung-fun, otherwise known as rice noodle rolls. The small eatery on Bayard Street offers a wide variety of Hong Kong-style breakfast foods that make for a quintessential element of the Chinatown experience.",
+        "description": "Kuih Cafe is owned by a mother-daughter duo who works to share their food from beyond our home kitchen to the busy streets of New York City. They are here to show New Yorkers Malaysian cuisine beyond curries and satays. Their menu consists of Kuih, savory snacks, as well as one-of-a-kind fusions of Malaysian and Western desserts.",
         "dishes": ["Assorted Kuih"],
-        "photo": "assets/images/1.png"
+        "photo": "assets/images/6.png"
     },
 
     {
         "number": 7,
         "title": "Mei Lai Wah",
         "location": "79 Bayard St",
-        "description": "Opened in October 2019, Tonii’s specializes in the Cantonese dim sum classic cheung-fun, otherwise known as rice noodle rolls. The small eatery on Bayard Street offers a wide variety of Hong Kong-style breakfast foods that make for a quintessential element of the Chinatown experience.",
+        "description": "A well known no-frills, cozy Chinese restaurant & bakery serving traditional buns, congee & rice noodle rolls. Their bread is baked fresh multiple times a day. Don't be fooled by the long line, it moves fast.",
         "dishes": ["Pineapple Pork Buns"],
-        "photo": "assets/images/1.png"
+        "photo": "assets/images/7.png"
     },
 
     {
         "number": 8,
         "title": "Buddha Bodhi",
         "location": "5 Mott St",
-        "description": "Opened in October 2019, Tonii’s specializes in the Cantonese dim sum classic cheung-fun, otherwise known as rice noodle rolls. The small eatery on Bayard Street offers a wide variety of Hong Kong-style breakfast foods that make for a quintessential element of the Chinatown experience.",
+        "description": "Situated in the heart of Chinatown, Buddha Bodai has been serving magnificent Kosher vegetarian meals since its inception in 2004. Buddha Bodai is committed to achieving and maintaining the delicate flavors of China's deep culinary history.",
         "dishes": ["Kosher Vegetarian Dim Sum"],
-        "photo": "assets/images/1.png"
+        "photo": "assets/images/8.png"
     },
 
     {
         "number": 9,
         "title": "Nom Wah Tea Parlor",
         "location": "47 Division St",
-        "description": "Opened in October 2019, Tonii’s specializes in the Cantonese dim sum classic cheung-fun, otherwise known as rice noodle rolls. The small eatery on Bayard Street offers a wide variety of Hong Kong-style breakfast foods that make for a quintessential element of the Chinatown experience.",
+        "description": "Nom Wah Tea Parlor first opened at 13–15 Doyers Street in 1920 as a bakery and tea parlor. Nom Wah has served as neighborhood staple, offering fresh Chinese pastries, steamed buns, dim sum, and tea.",
         "dishes": ["Assorted Dim Sum"],
         "photo": "assets/images/9.png"
     },
@@ -93,16 +93,16 @@
         "number": 11,
         "title": "Kopitiam",
         "location": "157 Hester St",
-        "description": "Opened in October 2019, Tonii’s specializes in the Cantonese dim sum classic cheung-fun, otherwise known as rice noodle rolls. The small eatery on Bayard Street offers a wide variety of Hong Kong-style breakfast foods that make for a quintessential element of the Chinatown experience.",
+        "description": "Kopitiam, “coffee shop” in Hokkien, they serve as a daily gathering space introducing visitors to Nyonya cuisine, primarily a hybrid of Chinese and Malay flavors drawing ingredients and techniques from both cultures along with sprinkles of influences from the Portuguese, Dutch, and the British. ",
         "dishes": ["Assorted Kopi and Teh"],
-        "photo": "assets/images/1.png"
+        "photo": "assets/images/11.png"
     },
 
     {
         "number": 12,
         "title": "Uncle Lou",
         "location": "73 Mulberry St",
-        "description": "Uncle Lou’s menu is divided into standard categories: Dim sum, noodle soup, beef, chicken, seafood and so on. The “lo wah kiu favorites” column “takes grandparents back to the Cantonese villages in Toisan, Sunwui, Enping, and Hoiping.”",
+        "description": "The menu at Uncle Lou is meant to bridge the generations, while welcoming all to enjoy. The extensive menu is big by design. The “lo wah kiu favorites” takes grandparents back to the Cantonese villages in Toisan, Sunwui, Enping, and Hoiping. ABC’s and “jook sing” are comforted by classic meals they enjoyed between Chinese school and playing in Columbus Park.",
         "dishes": ["Taipan Chow Mei Fun"],
         "photo": "assets/images/12.png"
     },
@@ -111,63 +111,63 @@
         "number": 13,
         "title": "Mee Sum Cafe",
         "location": "26 Pell St",
-        "description": "Opened in October 2019, Tonii’s specializes in the Cantonese dim sum classic cheung-fun, otherwise known as rice noodle rolls. The small eatery on Bayard Street offers a wide variety of Hong Kong-style breakfast foods that make for a quintessential element of the Chinatown experience.",
+        "description": "Open for over 50 years, Mee Sum Cafe has a straightforward menu of breakfast and lunch items like congee, dim sum, and various combos served over rice. Nowadays, Mee Sum Cafe is hugely popular among the Chinatown elderly, drawn to the diner’s old-school nostalgia and ridiculously low prices.",
         "dishes": ["Assorted Zhong zi"],
-        "photo": "assets/images/1.png"
+        "photo": "assets/images/13.png"
     },
 
     {
         "number": 14,
         "title": "Noodle Village",
         "location": "13 Mott St",
-        "description": "Opened in October 2019, Tonii’s specializes in the Cantonese dim sum classic cheung-fun, otherwise known as rice noodle rolls. The small eatery on Bayard Street offers a wide variety of Hong Kong-style breakfast foods that make for a quintessential element of the Chinatown experience.",
+        "description": "Noodle Village is a no-frills resturant known for their delicious noodles, dumplings and beef brisket. Open everyday from 10:30am to 11pm they are the perfect place to get a hearty home style meal anytime of day.",
         "dishes": ["Beef and Tomato Noodle Soup"],
-        "photo": "assets/images/1.png"
+        "photo": "assets/images/14.png"
     },
 
     {
         "number": 15,
         "title": "Hop Kee",
         "location": "21 Mott St",
-        "description": "Opened in October 2019, Tonii’s specializes in the Cantonese dim sum classic cheung-fun, otherwise known as rice noodle rolls. The small eatery on Bayard Street offers a wide variety of Hong Kong-style breakfast foods that make for a quintessential element of the Chinatown experience.",
+        "description": "Hop Kee opened in 1968 and is described as “the cornerstone of a legendary block of Mott Street. It is a wellknown, cash-only Chinese spot serving traditional Cantonese fare in a no-frills basement locale, open late.",
         "dishes": ["Lobster with Black Bean Sauce"],
-        "photo": "assets/images/1.png"
+        "photo": "assets/images/15.png"
     },
 
     {
         "number": 16,
-        "title": "115 Bowery",
+        "title": "Sun's Organic Garden",
         "location": "83 Bayard St",
-        "description": "Opened in October 2019, Tonii’s specializes in the Cantonese dim sum classic cheung-fun, otherwise known as rice noodle rolls. The small eatery on Bayard Street offers a wide variety of Hong Kong-style breakfast foods that make for a quintessential element of the Chinatown experience.",
+        "description": "Established in 2010, Sun's Organic Garden Chinatown is a small shop with 500+ specialty organic & wildcrafted teas, herbs and wellness products. They offer a curated collection of premium quality, loose leaf teas & herbs from around the world.",
         "dishes": ["Assorted Teas"],
-        "photo": "assets/images/1.png"
+        "photo": "assets/images/16.png"
     },
 
     {
         "number": 17,
         "title": "Lin Sister",
         "location": "4 Bowery",
-        "description": "Opened in October 2019, Tonii’s specializes in the Cantonese dim sum classic cheung-fun, otherwise known as rice noodle rolls. The small eatery on Bayard Street offers a wide variety of Hong Kong-style breakfast foods that make for a quintessential element of the Chinatown experience.",
+        "description": "Lin Sister was opened to provide better accessibility traditional chinese medical care and ingredients. They are a old-world herb shop offering traditional Chinese formulas, teas, and acupuncture supplies.",
         "dishes": ["Assorted Teas and Herbal Medicine"],
-        "photo": "assets/images/1.png"
+        "photo": "assets/images/17.png"
     },
 
     {
         "number": 18,
         "title": "Yunhang Chopsticks",
         "location": "50 Mott St",
-        "description": "Opened in October 2019, Tonii’s specializes in the Cantonese dim sum classic cheung-fun, otherwise known as rice noodle rolls. The small eatery on Bayard Street offers a wide variety of Hong Kong-style breakfast foods that make for a quintessential element of the Chinatown experience.",
+        "description": "Yunhong Chopsticks is filled with over 200 different styles of the ancient utensil. Whether you are looking for the perfect gift or a great set of chopsticks to have for home or office, this is definitely the place to shop.",
         "dishes": ["Chopsticks and Home goods "],
-        "photo": "assets/images/1.png"
+        "photo": "assets/images/18.png"
     },
 
     {
         "number": 19,
         "title": "Ting's Gift Shop",
         "location": "18 Doyers St",
-        "description": "Opened in October 2019, Tonii’s specializes in the Cantonese dim sum classic cheung-fun, otherwise known as rice noodle rolls. The small eatery on Bayard Street offers a wide variety of Hong Kong-style breakfast foods that make for a quintessential element of the Chinatown experience.",
+        "description": "Ting’s opened in January of 1958 and is a treasure trove of items from around the world and the past, selling everything from Chinese dolls and porcelain to knick-knacks and party goods.",
         "dishes": ["Knick Knacks and Trinkets"],
-        "photo": "assets/images/1.png"
+        "photo": "assets/images/19.png"
     },
 
     {
@@ -183,7 +183,7 @@
         "number": 21,
         "title": "Wing On and Co",
         "location": "26 Mott St",
-        "description": "Opened in October 2019, Tonii’s specializes in the Cantonese dim sum classic cheung-fun, otherwise known as rice noodle rolls. The small eatery on Bayard Street offers a wide variety of Hong Kong-style breakfast foods that make for a quintessential element of the Chinatown experience.",
+        "description": "Wing on Wo & Co. is the oldest continuously operating store in Manhattan’s Chinatown boasting a five-generation long legacy in the heart of the neighborhood on Mott St. They primarily sell porcelain ware and cultural goods. The shop works to breathe new life into cultural craft by reinterpreting tradition through an Asian American lens.",
         "dishes": ["Ceramics and Art"],
         "photo": "assets/images/21.png"
     },
@@ -192,8 +192,8 @@
         "number": 22,
         "title": "Lun Hong Flower Shop",
         "location": "50 Mulberry St",
-        "description": "Opened in October 2019, Tonii’s specializes in the Cantonese dim sum classic cheung-fun, otherwise known as rice noodle rolls. The small eatery on Bayard Street offers a wide variety of Hong Kong-style breakfast foods that make for a quintessential element of the Chinatown experience.",
+        "description": "Lun Hong Flower shop is a small locally owned floral shop that specializes in flower arragnements and provides services for funerals with hand calligraphy Chinese characters written on white ribbons. They also provide smaller arrangements and ready made bouquets.",
         "dishes": ["Flowers and Small Plants"],
-        "photo": "assets/images/1.png"
+        "photo": "assets/images/22.png"
     }
 ]

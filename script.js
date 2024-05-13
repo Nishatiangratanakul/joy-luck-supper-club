@@ -13,7 +13,7 @@ document.addEventListener("DOMContentLoaded", function () {
             <p class="location body-italic">${location.location}</p>
             <p class="description body">${location.description}</p>
             <div class="recommended-dishes-container">
-                <p class="body-bold">Recommended Dishes:</p>
+                <p class="body-bold">Recommended:</p>
                 <p class="dishes body">${location.dishes.join(", ")}</p>
             </div>
             <img class="photo" src="${location.photo}" alt="Location photo">
